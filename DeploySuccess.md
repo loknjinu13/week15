@@ -6,6 +6,7 @@ It has been an educative ride for our team. Doing research and testing was fun b
 
 We have deployed the Minecraft server on two different Linux platforms and hardware;
 |		|Hardware		|Linux distribution	|Base					|
+|---------------|-----------------------|-----------------------|---------------------------------------|
 |1.		|Raspberry Pi 3		|Rasbian		|armv7l					|
 |2.		|DigitalOcean/Server	|Ubuntu 16.04.4 LTS	|GNU/Linux 4.4.0-119-generic x86_64	|
 
@@ -17,7 +18,9 @@ After installing your Raspbian, install GIT, _sudo apt-get install git_, then cl
 After installing your Ubuntu Server, install GIT, _sudo apt-get install git_, then clone our [CodeBlockers project repository](https://github.com/grenack/Code-Blockers). Use the [script](https://github.com/grenack/Code-Blockers/blob/master/codeblockers1.sh) and make it executable. Then launch it using _sudo ./codeblockers1.sh_.
 
 **Step 3. Launch Server**
+
 |Platform	|Boot Directory		|Boot Command			|
+|---------------|-----------------------|-------------------------------|
 |Rasbian	|cd Startup		|sudo ./minecraft.sh		|
 |Ubuntu Server	|cd /opt/scripts	|sudo ./codebminecraft.sh	|
 
@@ -36,12 +39,12 @@ These are pictures of our installation and servers functioning:
 
 Active Servers:
 
-![Active servers](https://github.com/loknjinu13/week15/blob/master/pic/active_servers_userlimit.png)
+![Active servers](pic/active_servers_userlimit.png)
 
 
 Pi Server:
 
-![logged_in_pi](https://github.com/loknjinu13/week15/blob/master/pic/logged_in_pi.png)
+![logged_in_pi](pic/logged_in_pi.png)
 
 
 Pi Server:
@@ -70,7 +73,7 @@ SootSplash Server:
 
 Both Servers:
 
-![Pi_n_SootSplash](https://github.com/loknjinu13/week15/blob/master/pic/Pi_n_Sootsplash_minecraft.png)
+![Pi_n_SootSplash](Pi_n_Sootsplash_minecraft.png)
 
 Thanks while waiting more updates :-D
 
