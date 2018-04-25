@@ -1,10 +1,11 @@
 # CodeBlockers
-## Week 15, Minecraft Server Installed, Compile C
-### Atanga
+## Week 15, Minecraft Server Installed,
+### Contributions from Atanga and Team
 
 It has been an educative ride for our team. Doing research and testing was fun but getting into difficulties was more educative as it opened up more venues for research.
 
 We have deployed the Minecraft server on two different Linux platforms and hardware;
+
 |		|Hardware		|Linux distribution	|Base					|
 |---------------|-----------------------|-----------------------|---------------------------------------|
 |1.		|Raspberry Pi 3		|Rasbian		|armv7l					|
