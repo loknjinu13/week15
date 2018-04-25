@@ -34,7 +34,8 @@ That's it!
 
 These are pictures of our installation and servers functioning:
 
-:
+Active Servers:
+
 ![Active servers](Pic/active_servers_userlimit.png)
 
 
@@ -59,10 +60,10 @@ SootSplash Server:
 
 
 SootSplash Server:
-![disconect_sootsplash](Pic/disconect_sootsplash.png)
+![Picture #1](Pic/disconect_sootsplash.png)
 
 Both Servers:
-![Pi_n_Sootsplash](Pic/Pi_n_Sootsplash_minecraft.png)
+![Picture #2](Pic/Pi_n_Sootsplash_minecraft.png)
 
 Thanks while waiting more updates :-D
 
