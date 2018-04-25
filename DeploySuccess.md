@@ -36,34 +36,41 @@ These are pictures of our installation and servers functioning:
 
 Active Servers:
 
-![Active servers](Pic/active_servers_userlimit.png)
+![Active servers](https://github.com/loknjinu13/week15/blob/master/pic/active_servers_userlimit.png)
 
 
 Pi Server:
-![logged_in_pi](Pic/logged_in_pi.png)
+
+![logged_in_pi](https://github.com/loknjinu13/week15/blob/master/pic/logged_in_pi.png)
 
 
 Pi Server:
-![logging_pi](Pic/logging_pi.png)
+
+![logging_pi](pic/logging_pi.png)
 
 
 Pi Server:
-![disconect_pi](Pic/disconect_pi.png)
+
+![disconect_pi](pic/disconect_pi.png)
 
 
 SootSplash Server:
-![logged_in_sootsplash](Pic/logged_in_sootsplash.png)
+
+![logged_in_sootsplash](pic/logged_in_sootsplash.png)
 
 
 SootSplash Server:
-![logged_sootsplash](Pic/logged_sootsplash.png)
+
+![logged_sootsplash](pic/logged_sootsplash.png)
 
 
 SootSplash Server:
-![Picture #1](Pic/disconect_sootsplash.png)
+
+![Disconnected Sootsplash](pic/disconect_sootsplash.png)
 
 Both Servers:
-![Picture #2](Pic/Pi_n_Sootsplash_minecraft.png)
+
+![Pi_n_SootSplash](https://github.com/loknjinu13/week15/blob/master/pic/Pi_n_Sootsplash_minecraft.png)
 
 Thanks while waiting more updates :-D
 
